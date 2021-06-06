@@ -4,10 +4,10 @@
 2. Modeling Unnest Data Structure in Looker: [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/UNNEST_BQ.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/UNNEST_BQ.model.lkml)
 
 
-### Python Scripts using API/SDK  
+### Python Scripts using Looker API/SDK  
 
 1. [Introduction to Looker API](https://github.com/lanlooker/Looker-Tutorials/blob/main/Looker_API_101.ipynb)
-2. [Transfer to all schedules of a user to another user](https://github.com/lanlooker/Looker-Tutorials/blob/main/Update_Schedule_Owner.ipynb)
+2. [Transfer all schedules of a user to another user](https://github.com/lanlooker/Looker-Tutorials/blob/main/Update_Schedule_Owner.ipynb)
 
 
 ### About  
