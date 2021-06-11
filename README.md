@@ -1,7 +1,7 @@
 ### Data Modeling using Looker 
 
 1. Modeling BQML (BigQuery Machine Learning) in Looker [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/BQML_Looker.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/BQML_Looker.model.lkml)
-2. Modeling Unnest Data Structure in Looker: [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/UNNEST_BQ.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/UNNEST_BQ.model.lkml)
+2. Modeling BigQuery Nested Data Structure in Looker: [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/UNNEST_BQ.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/UNNEST_BQ.model.lkml)
 
 
 ### Python Scripts using Looker API/SDK  
