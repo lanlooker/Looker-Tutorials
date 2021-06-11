@@ -7,7 +7,7 @@
 ### Python Scripts using Looker API/SDK  
 
 1. [Introduction to Looker API](https://github.com/lanlooker/Looker-Tutorials/blob/main/Looker_API_101.ipynb)
-2. [Transfer all schedules of a user to another user](https://github.com/lanlooker/Looker-Tutorials/blob/main/Update_Schedule_Owner.ipynb)
+2. [Transfer all schedules of a user to another user](https://github.com/lanlooker/Looker-Tutorials/blob/main/Update_Owner_Schedules.ipynb)
 
 
 ### About  
