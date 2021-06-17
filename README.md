@@ -10,9 +10,9 @@ This repo includes tutorials and scripts using Looker and Google Cloud Platform 
 
 ## Python Scripts using Looker API/SDK  
 
-Note: All of the script can be run directly in a Google Colab notebook hosted in my repo, or viewed in [Looker's Official SDK Python examples folder](https://github.com/looker-open-source/sdk-codegen/tree/main/examples/python)
-1. Transfer all schedules of a user to another user: [link](https://github.com/lanlooker/Looker-Tutorials/blob/main/01_Transfer_All_Schedules.ipynb) 
-2. Add a board or dashboard to "Favorites" for a list of users [link](https://github.com/lanlooker/Looker-Tutorials/blob/main/02_Add_Contents_to_Favorites.ipynb)
+Note: Script can be run directly in a Google Colab notebook hosted in my repo, or viewed in [Looker's Official SDK Python examples](https://github.com/looker-open-source/sdk-codegen/tree/main/examples/python)
+1. Transfer all schedules of a user to another user: [Google Colab](https://github.com/lanlooker/Looker-Tutorials/blob/main/01_Transfer_All_Schedules.ipynb) | [.py file](https://github.com/looker-open-source/sdk-codegen/blob/main/examples/python/transfer_all_schedules.py) (external link)
+2. Add a board or dashboard to "Favorites" for a list of users [Google Colab](https://github.com/lanlooker/Looker-Tutorials/blob/main/02_Add_Contents_to_Favorites.ipynb) | [.py file](https://github.com/looker-open-source/sdk-codegen/blob/main/examples/python/add_contents_to_favorite.py) (external link)
 
 
 
