@@ -10,7 +10,8 @@ This repo includes tutorials and scripts using Looker and Google Cloud Platform 
 
 ## Python Scripts using Looker API/SDK  
 
-1. Transfer all schedules of a user to another user: [link](https://github.com/lanlooker/Looker-Tutorials/blob/main/01_Transfer_All_Schedules.ipynb)
+Note: All of the script can be run directly in a Google Colab notebook hosted in my repo, or viewed in [Looker's Official SDK Python examples folder](https://github.com/looker-open-source/sdk-codegen/tree/main/examples/python)
+1. Transfer all schedules of a user to another user: [link](https://github.com/lanlooker/Looker-Tutorials/blob/main/01_Transfer_All_Schedules.ipynb) 
 2. Add a board or dashboard to "Favorites" for a list of users [link](https://github.com/lanlooker/Looker-Tutorials/blob/main/02_Add_Contents_to_Favorites.ipynb)
 
 
