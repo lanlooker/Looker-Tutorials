@@ -16,6 +16,7 @@ Note: Script can be run directly in a Google Colab notebook hosted in my repo, o
 3. Pause/resume all schedules (using Python's request module): [Google Colab](https://github.com/lanlooker/Looker-Tutorials/blob/main/03_Pause_or_Resume_Schedules_(using_requests_module).ipynb)
 4. Pause/resume all schedules (using Looker's native Python SDK): [Google Colab](https://github.com/lanlooker/Looker-Tutorials/blob/main/03_Pause_or_Resume_Schedules_(using_Looker_SDK).ipynb)
 5. Copy all schedules from a Looker dashboard to another dashboard: coming soon
+6. Kill all running queries in a Looker instance: [Google Colab](https://github.com/lanlooker/Looker-Tutorials/blob/main/06_Kill_Running_Queries.ipynb)
 
 
 
