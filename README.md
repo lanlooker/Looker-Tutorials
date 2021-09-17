@@ -4,8 +4,8 @@ This repo includes tutorials and scripts using Looker and Google Cloud Platform 
 
 ## Data Modeling using Looker 
 
-1. Modeling BQML (BigQuery Machine Learning) in Looker [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/BQML_Looker.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/BQML_Looker.model.lkml)
-2. Modeling BigQuery Nested Data Structure in Looker: [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/UNNEST_BQ.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/UNNEST_BQ.model.lkml)
+1. Modeling BQML (BigQuery Machine Learning) in Looker [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/02_BigQuery_BQML.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/02_BigQuery_BQML.model.lkml)
+2. Modeling BigQuery Nested Data Structure in Looker: [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/01_BigQuery_NestedData.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/01_BigQuery_NestedData.model.lkml)
 
 
 ## Python Scripts using Looker API/SDK  
