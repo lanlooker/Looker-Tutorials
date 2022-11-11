@@ -7,6 +7,12 @@ This repo includes tutorials and scripts using Looker and Google Cloud Platform 
 1. Modeling BQML (BigQuery Machine Learning) in Looker [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/02_BigQuery_BQML.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/02_BigQuery_BQML.model.lkml)
 2. Modeling BigQuery Nested Data Structure in Looker: [Tutorial](https://github.com/lanlooker/Looker-Tutorials/blob/main/01_BigQuery_NestedData.pdf) | [Example Model](https://github.com/lanlooker/Looker-Tutorials/blob/main/01_BigQuery_NestedData.model.lkml)
 
+## Video tutorials with code examples 
+1. [Install a custom visualization to a Looker instance](https://www.youtube.com/watch?v=WPEmRRS003E)
+2. [Debug LookML errors "Inaccessible views/fields"](https://www.youtube.com/watch?v=ePvKcwV8Kmg)
+3. [Create new Looker users from reading email addresses in a Google Sheet](https://www.youtube.com/watch?v=hQMZ5w9v4aA)
+4. [Send data from Looker to BigQuery with Cloud Functions and Looker Actions](https://www.youtube.com/watch?v=6hzb-j_VfnI)
+
 
 ## Python Scripts using Looker API/SDK  
 
@@ -18,6 +24,8 @@ Update: This repository will not be updated moving forward since I commit all of
 4. Pause/resume all schedules (using Looker's native Python SDK): [Google Colab](https://github.com/lanlooker/Looker-Tutorials/blob/main/03_Pause_or_Resume_Schedules_(using_Looker_SDK).ipynb)  | (external link) [.py file](https://github.com/looker-open-source/sdk-codegen/blob/main/examples/python/manage_schedules.py) 
 5. Copy all schedules from a Looker dashboard to another dashboard: coming soon  | (external link) [.py file](https://github.com/looker-open-source/sdk-codegen/blob/main/examples/python/manage_schedules.py) 
 6. Kill all running queries in a Looker instance: [Google Colab](https://github.com/lanlooker/Looker-Tutorials/blob/main/06_Kill_Running_Queries.ipynb) | (external link) [.py file](https://github.com/looker-open-source/sdk-codegen/blob/main/examples/python/kill_queries.py) 
+
+
 
 
 
